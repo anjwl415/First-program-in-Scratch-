@@ -10,3 +10,4 @@ I had to make a script that contained:
   - At least one sound.
   - The project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than Ivy’s Hardest Game. As such, your project should probably use a few dozen puzzle pieces overall.
  
+![bear_cat](https://user-images.githubusercontent.com/82679761/115106515-9083c480-9f65-11eb-8557-d2bd8f13decd.JPG)

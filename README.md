@@ -1,7 +1,7 @@
 # First-program-in-Scratch-
 My first submission for the CS50 course. 
 
-I had to make a script that contained:
+## I had to make a script that contained:
   - At least two sprites, at least one of which must resemble something other than a cat.
   - At least three scripts total (i.e., not necessarily three per sprite).
   - At least one condition.
